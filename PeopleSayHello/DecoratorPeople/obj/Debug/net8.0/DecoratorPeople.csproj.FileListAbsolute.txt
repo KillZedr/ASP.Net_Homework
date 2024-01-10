@@ -1,0 +1,16 @@
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\bin\Debug\net8.0\DecoratorPeople.deps.json
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\bin\Debug\net8.0\DecoratorPeople.dll
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\bin\Debug\net8.0\DecoratorPeople.pdb
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\bin\Debug\net8.0\Domain.dll
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\bin\Debug\net8.0\Domain.pdb
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.AssemblyInfo.cs
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.sourcelink.json
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.csproj.CopyComplete
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.dll
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\refint\DecoratorPeople.dll
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\DecoratorPeople.pdb
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\PeopleSayHello\DecoratorPeople\obj\Debug\net8.0\ref\DecoratorPeople.dll
