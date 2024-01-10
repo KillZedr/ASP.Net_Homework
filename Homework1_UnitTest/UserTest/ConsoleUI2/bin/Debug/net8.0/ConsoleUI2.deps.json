@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleUI2/1.0.0": {
+        "dependencies": {
+          "RealisarionInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleUI2.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "Interfaces.dll": {}
+        }
+      },
+      "RealisarionInterfaces/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "RealisarionInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleUI2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealisarionInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

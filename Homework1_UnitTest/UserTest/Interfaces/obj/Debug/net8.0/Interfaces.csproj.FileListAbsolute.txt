@@ -1,0 +1,16 @@
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\bin\Debug\net8.0\Domain.dll
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\bin\Debug\net8.0\Domain.pdb
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CopyComplete
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\Илья\Desktop\ASP.Net\ASP.Net2023IliaTsarikov\ASP.Net2023IliaTsarikov\Homework1_UnitTest\UserTest\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
